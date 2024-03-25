@@ -64,7 +64,7 @@ def delete_department():
     else:
         print(f'Department {id_} not found')
 
-
+  
 # You'll implement the employee functions in the lab
 
 def list_employees():
